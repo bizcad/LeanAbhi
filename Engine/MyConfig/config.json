@@ -23,9 +23,8 @@
     //"algorithm-location": "QuantConnect.Algorithm.Java.dll",
 
     // engine
-    "data-folder": "../../../Data/",
+    //"data-folder": "../../../Data/",
     "data-folder": "H:/GoogleFinanceData/",
-
 
     // handlers
     "log-handler": "QuantConnect.Logging.CompositeLogHandler",
